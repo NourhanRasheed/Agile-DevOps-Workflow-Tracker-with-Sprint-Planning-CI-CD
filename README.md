@@ -1,1 +1,3 @@
-# Agile-DevOps-Workflow-Tracker-with-Sprint-Planning-CI-CD
+# DevOps Final Project
+
+This repository contains the final project for the DevOps course.
